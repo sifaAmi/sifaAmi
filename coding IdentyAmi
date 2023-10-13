@@ -1,0 +1,25 @@
+public class Sipa {
+	public static void main(String[] args) {
+				//gunakan tipe data  variabel seperti String, int, double, char, boolean untuk mendefinisikan variabel seperti berikut
+				String nama ="Sipa ami";
+				//tulis variabel di type data String dan seterusnya tapi harus sesuai dengan variavbel dan type datanya
+		String alamat ="Kalimantan selatan";
+		int umur = 18;
+		double tinggi = 1.60;
+		char jeniskelamin = 'p';
+		boolean status = true;
+		
+		//setelah itu prongram akan mencetak variabel yang anda masukan dengan System.out.println
+		System.out.println(nama);
+		System.out.println(alamat);
+		System.out.println(umur);
+		System.out.println(tinggi);
+		System.out.println(jeniskelamin);
+		System.out.println(status);
+		
+		
+	}
+}
+
+
+	
